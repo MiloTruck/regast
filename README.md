@@ -23,8 +23,7 @@ It is heavily inspired by tools such as [Slither](https://github.com/crytic/slit
 
 First, clone this repository and its submodules:
 ```sh
-git clone --recurse-submodules https://github.com/MiloTruck/regast.git
-cd regast
+git clone --recurse-submodules https://github.com/MiloTruck/regast-public.git
 ```
 
 Install **regast** using either `pip` or `setuptools`:
