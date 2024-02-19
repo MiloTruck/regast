@@ -1,6 +1,6 @@
 # **regast**
 
-> [!NOTE]
+> [!WARNING]
 > **regast** has not been maintained since March 2023. If you're trying to run it, it will most probably throw an error during the parsing stage. 
 > 
 > Nevertheless, feel free to look through the code to get an idea of how to implement your own static analyzer.
