@@ -1,0 +1,3 @@
+[submodule "regast/third_party/tree-sitter-solidity"]
+	path = regast/third_party/tree-sitter-solidity
+	url = https://github.com/JoranHonig/tree-sitter-solidity.git
