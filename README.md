@@ -1,7 +1,9 @@
 # **regast**
 
 > [!NOTE]
-> **regast** has not been maintained since March 2023. If you're trying to run it, it will most probably throw an error during the parsing stage does not work anymore. Nevertheless, feel free to look through the code to get an idea of how to implement your own static analyzer.
+> **regast** has not been maintained since March 2023. If you're trying to run it, it will most probably throw an error during the parsing stage. 
+> 
+> Nevertheless, feel free to look through the code to get an idea of how to implement your own static analyzer.
 
 **regast** is a static analyzer for identifying security vulnerabilities and gas optimizations in Solidity codebases.
 
