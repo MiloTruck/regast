@@ -1,4 +1,8 @@
 # **regast**
+
+> [!NOTE]
+> **regast** has not been maintained since March 2023. If you're trying to run it, it will most probably throw an error during the parsing stage does not work anymore. Nevertheless, feel free to look through the code to get an idea of how to implement your own static analyzer.
+
 **regast** is a static analyzer for identifying security vulnerabilities and gas optimizations in Solidity codebases.
 
 It is heavily inspired by tools such as [Slither](https://github.com/crytic/slither), [solstat](https://github.com/0xKitsune/solstat) and [4naly3er](https://github.com/Picodes/4naly3er), but has the following differences:
